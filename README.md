@@ -1,2 +1,3 @@
 # hackerrank
-Exercise of Loops
+Example of Write a function
+
